@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "李强的简历",
+    "navigationBarBackgroundColor": "#007AFF"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap22.json"
+}

@@ -1,0 +1,140 @@
+.page {
+  background-color: #F0EFF5;
+  padding-bottom: 30rpx;
+}
+.top {
+  background-color: #007AFF;
+  height: 150rpx;
+}
+.user-info {
+  background-color: #FFFFFF;
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -100rpx;
+  margin-bottom: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 10rpx;
+}
+.user-info .header {
+  width: 30%;
+  border-radius: 5rpx;
+  margin-right: 40rpx;
+}
+.user-info .user-content {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+.user-info .user-content .line-1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.user-info .user-content .line-1 .callme {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: -5rpx;
+}
+.subject-icon {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: bottom;
+  margin-right: 15rpx;
+}
+.subject-title {
+  font-size: 38rpx;
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.list-item {
+  border-top: dashed 2rpx #C0C0C0;
+  padding: 16rpx 16rpx;
+}
+.small-icon {
+  width: 40rpx;
+  height: 40rpx;
+  vertical-align: bottom;
+  margin-right: 10rpx;
+}
+.base-info {
+  background-color: #FFFFFF;
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-bottom: 30rpx;
+  border-radius: 10rpx;
+}
+.base-info .label {
+  display: inline-block;
+  width: 170rpx;
+  color: #999999;
+}
+.education-info,
+.work-info,
+.evaluation-info {
+  background-color: #FFFFFF;
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-bottom: 30rpx;
+  border-radius: 10rpx;
+}
+.education-info .organization,
+.work-info .organization,
+.evaluation-info .organization,
+.education-info .project,
+.work-info .project,
+.evaluation-info .project {
+  font-size: 34rpx;
+  margin: 20rpx 0;
+}
+.education-info .content-container,
+.work-info .content-container,
+.evaluation-info .content-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 10rpx 0;
+}
+.education-info .summary,
+.work-info .summary,
+.evaluation-info .summary {
+  color: #999999;
+  line-height: 46rpx;
+}
+.font-1 {
+  font-size: 50rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+  color: #333333;
+}
+.font-2 {
+  font-size: 30rpx;
+  margin: 10rpx 0;
+  color: #333333;
+}
+
