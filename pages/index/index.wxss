@@ -1,9 +1,9 @@
 .page {
-  background-color: #F0EFF5;
+  background-color:#1E90FF;
   padding-bottom: 30rpx;
 }
 .top {
-  background-color: #007AFF;
+  background-color:#1E90FF;
   height: 150rpx;
 }
 .user-info {
